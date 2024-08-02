@@ -1,0 +1,2 @@
+com/mdrsolutions/springbootprod/ProdreadyApplicationTests.java
+ com.mdrsolutions.springbootprod.ProdreadyApplicationTests

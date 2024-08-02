@@ -1,0 +1,10 @@
+com/mdrsolutions/springbootprod/health/DataWebServiceApiHealthIndicator.java
+ com.mdrsolutions.springbootprod.health.DataWebServiceApiHealthIndicator
+com/mdrsolutions/springbootprod/configuration/DBConnectionConfiguration.java
+ com.mdrsolutions.springbootprod.configuration.DBConnectionConfiguration
+com/mdrsolutions/springbootprod/controller/MainController.java
+ com.mdrsolutions.springbootprod.controller.MainController
+com/mdrsolutions/springbootprod/SpringBootProdApplication.java
+ com.mdrsolutions.springbootprod.SpringBootProdApplication
+com/mdrsolutions/springbootprod/configuration/DBConfiguration.java
+ com.mdrsolutions.springbootprod.configuration.DBConfiguration
