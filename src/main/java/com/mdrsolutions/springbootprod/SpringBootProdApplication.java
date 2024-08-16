@@ -10,10 +10,14 @@ import javax.swing.*;
 
 @SpringBootApplication
 @EnableAutoConfiguration
-public class SpringBootProdApplication {
+public class SpringBootProdApplication extends SpringBootServletInitializer{
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootProdApplication.class, args);
 	}
 
+	@Override
+	protected SpringApplicationBuilder configure(SpringApplicationBuilder builder) {
+		return builder.sources(SpringBootProdApplication.class);
+	}
 }
