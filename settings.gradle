@@ -1,2 +1,10 @@
 rootProject.name = 'SpringBootProdApplication'
 
+pluginManagement {
+    repositories {
+        maven {url 'https://repo.spring.io/release'}
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+
